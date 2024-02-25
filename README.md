@@ -19,11 +19,11 @@ pip install pandas scikit-learn
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/seo-keyword-analysis.git
+git clone https://github.com/engalejandrovargas/Competitors-Analysis.git
 ```
 2. Navigate to the cloned repository:
 ```bash
-cd seo-keyword-analysis
+cd Competitors-Analysis
 ```
 3. Start Jupyter Notebook or JupyterLab:
 ```bash
