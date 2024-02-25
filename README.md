@@ -21,12 +21,17 @@ pip install pandas scikit-learn
 ```bash
 git clone https://github.com/your-username/seo-keyword-analysis.git
 ```
-2. Place your CSV files containing keyword data in the data directory.
-3. Run the script:
+2. Navigate to the cloned repository:
 ```bash
-python keyword_analysis.py
+cd seo-keyword-analysis
 ```
-This will generate an Excel file named top_keywords_YYYY-MM-DD.xlsx in the root directory, containing the top 20 keywords from all the CSV files.
+3. Start Jupyter Notebook or JupyterLab:
+```bash
+jupyter notebook
+```
+4. Open the keyword_analysis.ipynb notebook in Jupyter.
+5. Place your CSV files containing keyword data in the data directory.
+6. Run the cells in the notebook to perform the analysis and generate an Excel file named top_keywords_YYYY-MM-DD.xlsx containing the top 20 keywords from all the CSV files.
 
 ## Monthly Analysis
 To keep our blog content fresh and SEO-optimized, we should run this analysis at the beginning of each month. Use the output Excel file to guide your content creation and target the most promising keywords.
