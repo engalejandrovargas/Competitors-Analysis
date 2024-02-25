@@ -29,7 +29,7 @@ cd Competitors-Analysis
 ```bash
 jupyter notebook
 ```
-4. Open the keyword_analysis.ipynb notebook in Jupyter.
+4. Open the EDA.ipynb notebook in Jupyter.
 5. Place your CSV files containing keyword data in the data directory.
 6. Run the cells in the notebook to perform the analysis and generate an Excel file named top_keywords_YYYY-MM-DD.xlsx containing the top 20 keywords from all the CSV files.
 
